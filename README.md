@@ -23,6 +23,8 @@ The Power BI dashboard summarizes total sales, average sales, order volume, and 
 | No. of Items | 8,523 |
 | Average Rating | 3.9 |
 
+---
+
 ## Repository Contents
 
 | File | Purpose |
