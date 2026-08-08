@@ -7,6 +7,8 @@
 
 An end-to-end sales analytics project on BlinkIT's grocery outlet data — combining **SQL-based data cleaning and KPI analysis** with an **interactive Power BI dashboard** to uncover sales trends across item types, outlet formats, and locations.
 
+---
+
 ## Dashboard Preview
 
 ![BlinkIT Power BI Dashboard](./Dashboard_Preview.png)
