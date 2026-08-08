@@ -34,6 +34,8 @@ The Power BI dashboard summarizes total sales, average sales, order volume, and 
 | `BlinkIT_PowerBI_Dashboard.pbix` | Power BI dashboard file (interactive report) |
 | `Blinkit_analysis.sql` | SQL script covering data cleaning, KPI calculation, and analytical queries |
 
+---
+
 ## Tools & Technologies
 
 - **MySQL Workbench** — data cleaning, KPI calculation, and analytical queries
