@@ -5,7 +5,7 @@
 ![Excel](https://img.shields.io/badge/Excel-Data%20Source-217346?logo=microsoftexcel&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
-An end-to-end sales analytics project on BlinkIT's grocery outlet data — combining **SQL-based data cleaning and KPI analysis** with an **interactive Power BI dashboard** to uncover sales trends across item types, outlet formats, and locations.
+An end-to-end sales analytics project on BlinkIT's grocery outlet data - combining **SQL-based data cleaning and KPI analysis** with an **interactive Power BI dashboard** to uncover sales trends across item types, outlet formats, and locations.
 
 ---
 
