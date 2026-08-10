@@ -13,7 +13,7 @@ An end-to-end sales analytics project on BlinkIT's grocery outlet data - combini
 
 ![BlinkIT Power BI Dashboard](./Dashboard_Preview.png)
 
-The Power BI dashboard summarizes total sales, average sales, order volume, and customer ratings, with breakdowns by fat content, item type, outlet size, outlet location, and outlet type — all filterable by Outlet Location Type, Outlet Size, and Item Type.
+The Power BI dashboard summarizes total sales, average sales, order volume, and customer ratings, with breakdowns by fat content, item type, outlet size, outlet location, and outlet type - all filterable by Outlet Location Type, Outlet Size, and Item Type.
 
 **Key headline metrics:**
 | Metric | Value |
