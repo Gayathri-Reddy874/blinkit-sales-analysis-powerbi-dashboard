@@ -44,7 +44,7 @@ The Power BI dashboard summarizes total sales, average sales, order volume, and 
 
 ## Data Cleaning
 
-The `Item Fat Content` field contained inconsistent category labels (`LF`, `low fat`, `reg`, etc.). A `CASE`-based `UPDATE` statement standardized these into two clean categories — **Low Fat** and **Regular** — affecting 1,721 of 8,523 rows.
+The `Item Fat Content` field contained inconsistent category labels (`LF`, `low fat`, `reg`, etc.). A `CASE`-based `UPDATE` statement standardized these into two clean categories - **Low Fat** and **Regular** — affecting 1,721 of 8,523 rows.
 
 ```sql
 UPDATE `blinkit grocery data`
