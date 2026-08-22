@@ -38,7 +38,7 @@ The Power BI dashboard summarizes total sales, average sales, order volume, and 
 
 ## Tools & Technologies
 
-- **MySQL Workbench** — data cleaning, KPI calculation, and analytical queries
+- **MySQL Workbench** - data cleaning, KPI calculation, and analytical queries
 - **Power BI** — interactive dashboard and visualization
 - **Excel/CSV** — source data formats for Power BI and MySQL respectively
 
