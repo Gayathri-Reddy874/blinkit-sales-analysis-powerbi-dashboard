@@ -58,7 +58,7 @@ SET `Item Fat Content` =
 
 ## Key Analyses (SQL)
 
-1. **Core KPIs** — Total Sales, Average Sales, Order Count, Average Rating
+1. **Core KPIs** - Total Sales, Average Sales, Order Count, Average Rating
 2. **Total Sales by Fat Content** — Low Fat items generate nearly double the revenue of Regular items
 3. **Total Sales by Item Type** — Fruits & Vegetables and Snack Foods lead all 16 categories
 4. **Fat Content by Outlet Location** — row-to-column pivot via conditional aggregation (`SUM(CASE WHEN ...)`), since MySQL lacks a native `PIVOT` operator
